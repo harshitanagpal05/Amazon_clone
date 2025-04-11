@@ -1,1 +1,2 @@
 # Amazon_clone
+This project is a frontend clone of Amazon, designed using HTML and CSS. It replicates the layout, styling, and user interface of the Amazon homepage to provide a visually similar experience. It focuses purely on HTML & CSS, meaning it does not have backend functionality like login, cart management, or payments. However, it serves as a great exercise in structuring a modern e-commerce webpage using front-end technologies.
